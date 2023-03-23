@@ -1,2 +1,2 @@
-# Taquer-a_Rengoku
+# Taqueria_Rengoku
 Página de ejercicio taquería
